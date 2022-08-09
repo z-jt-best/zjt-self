@@ -1,0 +1,22 @@
+{
+  "name": "zjt-self-package",
+  "version": "1.0.0",
+  "description": "the first node testing package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z-jt-best/zjt-self.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "zhang-jt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z-jt-best/zjt-self/issues"
+  },
+  "homepage": "https://github.com/z-jt-best/zjt-self#readme"
+}
